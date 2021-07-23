@@ -17,6 +17,7 @@
   </a>
  </p>
 A program to automatically update your mods!
+
 # How to setup
 ## Setting up the config
 Create a folder and put the jar from [the latest release](https://github.com/DeDiamondPro/multimc-auto-updater/releases/latest) in the folder.
