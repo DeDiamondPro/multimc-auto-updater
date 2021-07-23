@@ -70,6 +70,27 @@ And one to make it so in order to update to a version of a mod that mod's name n
   ]
 }
 ```
+The updater also supports Modrinth: https://modrinth.com/
+to use this you can do:
+```json
+{
+  "mods" : [
+    {
+      "modrinth" : "FIlZB9L0",
+      "mc_version" : "1.17",
+      "version_type" : "alpha",
+      "loader" : "fabric"
+    }
+  ]
+}
+```
+the "modrinth" paramater should be set the id of the mod which you can find on the website.
+
+![image](https://user-images.githubusercontent.com/67508414/126830152-a62ac465-3405-4ab7-992a-5e0c13ff4e8a.png)
+
+"mc_version" is optional and forces it to download a specific version.
+"version_type" is optional and says what stage of mod it should download, it can be release, beta and alpha. Default is release.
+"loader" is optional and is the mod loader the mod is for.
 Now you have configured the updater to update all the mods you want!
 ## Setting up with multimc
 Multimc is required for this to work since multimc allows this program to run before it starts Minecraft, Multimc download: https://multimc.org/
