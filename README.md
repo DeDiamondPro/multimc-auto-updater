@@ -1,4 +1,21 @@
 # multimc-auto-updater
+<p align="center">
+<a href="https://github.com/DeDiamondPro/HyCord/releases" target="_blank">
+<img alt="release" src="https://img.shields.io/github/v/release/DeDiamondPro/multimc-auto-updater?color=00FFFF&style=for-the-badge" />
+</a>
+<a href="https://github.com/DeDiamondPro/HyCord/releases" target="_blank">
+<img alt="downloads" src="https://img.shields.io/github/downloads/DeDiamondPro/multimc-auto-updater/total?color=00FFFF&style=for-the-badge" />
+</a>
+<a href="https://github.com/DeDiamondPro/HyCord/blob/master/LICENSE">
+    <img alt="license" src="https://img.shields.io/github/license/DeDiamondPro/multimc-auto-updater?color=00FFFF&style=for-the-badge">
+ </a>
+  <a href="https://github.com/DeDiamondPro/HyCord/">
+    <img alt="lines" src="https://img.shields.io/tokei/lines/github/DeDiamondPro/multimc-auto-updater?color=00FFFF&style=for-the-badge">
+ </a>
+    <a href="https://discord.gg/ZBNS8jsAMd" target="_blank">
+    <img alt="discord" src="https://img.shields.io/discord/822066990423605249?color=00FFFF&label=discord&style=for-the-badge" />
+  </a>
+ </p>
 A program to automatically update your mods!
 # How to setup
 ## Setting up the config
