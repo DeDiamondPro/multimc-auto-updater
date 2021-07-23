@@ -92,6 +92,7 @@ to use this you can do:
 - "version_type" is optional and says what stage of mod it should download, it can be release, beta and alpha. Default is release.
 - "loader" is optional and is the mod loader the mod is for.
 - "includes" can be used like in the github examples
+
 Now you have configured the updater to update all the mods you want!
 ## Setting up with multimc
 Multimc is required for this to work since multimc allows this program to run before it starts Minecraft, Multimc download: https://multimc.org/
