@@ -1,15 +1,15 @@
 # multimc-auto-updater
 <p align="center">
-<a href="https://github.com/DeDiamondPro/HyCord/releases" target="_blank">
+<a href="https://github.com/DeDiamondPro/multimc-auto-updater/releases" target="_blank">
 <img alt="release" src="https://img.shields.io/github/v/release/DeDiamondPro/multimc-auto-updater?color=00FFFF&style=for-the-badge" />
 </a>
-<a href="https://github.com/DeDiamondPro/HyCord/releases" target="_blank">
+<a href="https://github.com/DeDiamondPro/multimc-auto-updater/releases" target="_blank">
 <img alt="downloads" src="https://img.shields.io/github/downloads/DeDiamondPro/multimc-auto-updater/total?color=00FFFF&style=for-the-badge" />
 </a>
-<a href="https://github.com/DeDiamondPro/HyCord/blob/master/LICENSE">
+<a href="https://github.com/DeDiamondPro/multimc-auto-updater/blob/master/LICENSE">
     <img alt="license" src="https://img.shields.io/github/license/DeDiamondPro/multimc-auto-updater?color=00FFFF&style=for-the-badge">
  </a>
-  <a href="https://github.com/DeDiamondPro/HyCord/">
+  <a href="https://github.com/DeDiamondPro/multimc-auto-updater/">
     <img alt="lines" src="https://img.shields.io/tokei/lines/github/DeDiamondPro/multimc-auto-updater?color=00FFFF&style=for-the-badge">
  </a>
     <a href="https://discord.gg/ZBNS8jsAMd" target="_blank">
