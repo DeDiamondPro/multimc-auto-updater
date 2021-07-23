@@ -8,14 +8,7 @@ archivesBaseName = "autoupdater"
 sourceCompatibility = targetCompatibility = 1.8
 compileJava.options.encoding = 'UTF-8'
 
-sourceSets {
-    main {
-        java {
-            srcDirs = ['src']
-        }
-    }
-}
-
+sourceSets.main.java.srcDir('src')
 
 repositories {
     mavenCentral()
@@ -30,7 +23,7 @@ dependencies {
 
 jar {
     manifest {
-        attributes "Main-Class": "io.github.dediamondpro.autoupdater"
+        attributes "Main-Class": "io.github.dediamondpro.autoupdater.Main"
     }
 
     from {
