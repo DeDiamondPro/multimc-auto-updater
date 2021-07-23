@@ -1,0 +1,7 @@
+pluginManagement {
+    repositories {
+
+    }
+}
+
+rootProject.name = "autoupdater"

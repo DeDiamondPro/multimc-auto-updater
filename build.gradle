@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+}
+
+version = "1.1.0"
+group = "io.github.dediamondpro"
+archivesBaseName = "autoupdater"
+sourceCompatibility = targetCompatibility = 1.8
+compileJava.options.encoding = 'UTF-8'
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src']
+        }
+    }
+}
+
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://jitpack.io"
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.8.7'
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": "io.github.dediamondpro.autoupdater"
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
