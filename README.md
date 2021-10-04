@@ -1,3 +1,5 @@
+# Archived in favor of https://github.com/DeDiamondPro/Auto-Updater
+
 # multimc-auto-updater
 <p align="center">
 <a href="https://github.com/DeDiamondPro/multimc-auto-updater/releases" target="_blank">
